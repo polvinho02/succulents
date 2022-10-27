@@ -46,18 +46,27 @@
 
 > # valor: R$ 9,00 cada
 
+![image](https://user-images.githubusercontent.com/113630958/198370406-39c5386d-39e7-403c-82dc-235625cdb641.png)
+
 
 > # Endereço: Rua Avenida Brasil-Centro, Mandirituba PR
 
+![image](https://user-images.githubusercontent.com/113630958/198370151-5050d41f-2c4d-446e-abd4-87e026c03ee4.png)
 
 
 > # Whatsapp: (41) 988031217
 
 
+![image](https://user-images.githubusercontent.com/113630958/198369642-b8a57b25-393f-46ba-86f0-85329bacc878.png)
+
 
 > # Site: www.mini-succulents.com.br
 
+![image](https://user-images.githubusercontent.com/113630958/198369863-5f122347-a7cb-4b5f-9aa7-77a9c5fd1106.png)
 
 
 > # Instagram: mini_succulents
+
+
+![image](https://user-images.githubusercontent.com/113630958/198369762-f847bab7-c63c-4b8a-abb6-542a79f1f658.png)
 
