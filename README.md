@@ -44,7 +44,9 @@
 
 
 
-> # valor: R$ 9,00 cada
+> # valor: R$ 9,00 cada 
+> 
+> # 𝙽𝚊 𝚌𝚘𝚖𝚙𝚛𝚊 𝚍𝚊 𝚜𝚎𝚐𝚞𝚗𝚍𝚊 𝚜𝚞𝚌𝚞𝚕𝚎𝚗𝚝𝚊, 𝚟𝚘𝚌𝚎̂ 𝚐𝚊𝚗𝚑𝚊 𝟻𝟶% 𝚍𝚎 𝚍𝚎𝚜𝚌𝚘𝚗𝚝𝚘
 
 <img src="https://user-images.githubusercontent.com/113630958/203797464-68cc6463-0130-4d01-b877-e751def98a12.png" width="150" height="150" />
 
@@ -79,6 +81,5 @@
 
 
 <img src="https://user-images.githubusercontent.com/113630958/203802162-a5a188c2-94b3-4dbb-bb33-4bb800049376.png" width="150" heigt="150" />
-
 
 
