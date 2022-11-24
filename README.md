@@ -46,26 +46,26 @@
 
 > # valor: R$ 9,00 cada
 
-![image](https://user-images.githubusercontent.com/113630958/203797464-68cc6463-0130-4d01-b877-e751def98a12.png
+<img src="https://user-images.githubusercontent.com/113630958/203797464-68cc6463-0130-4d01-b877-e751def98a12.png" width="150" height="150" />
 
 
 > # Endereço: Rua Avenida Brasil-Centro, Mandirituba PR
 
-![image](https://user-images.githubusercontent.com/113630958/203797315-af3340e4-1610-4bae-ba68-c8d00d56510f.png)
+<img src="https://user-images.githubusercontent.com/113630958/203797315-af3340e4-1610-4bae-ba68-c8d00d56510f.png)" width="150" height="150" />" 
 
 
 > # Whatsapp: (41) 988031217
 
-![image](https://user-images.githubusercontent.com/113630958/203797122-c581f5e0-9a86-431b-a4ee-2c81573f8cd1.png)
+<img src="https://user-images.githubusercontent.com/113630958/203797122-c581f5e0-9a86-431b-a4ee-2c81573f8cd1.png)" width="150" height="150" />
 
 
 > # Site: www.mini-succulents.com.br
 
-![image](https://user-images.githubusercontent.com/113630958/203796994-1cc12e4b-3114-415a-b017-a5505e351e91.png)
+<img src="https://user-images.githubusercontent.com/113630958/203796994-1cc12e4b-3114-415a-b017-a5505e351e91.png)" width="150" height="150" />
 
 
 > # Instagram: mini_succulents
 
-![image](https://user-images.githubusercontent.com/113630958/203796612-45806122-d82b-43d4-8c24-9f9701a3d01a.png)
+<img src="https://user-images.githubusercontent.com/113630958/203796612-45806122-d82b-43d4-8c24-9f9701a3d01a.png)" width="150" height="150" />
 
 
