@@ -51,21 +51,34 @@
 
 > # Endereço: Rua Avenida Brasil-Centro, Mandirituba PR
 
-<img src="https://user-images.githubusercontent.com/113630958/203797315-af3340e4-1610-4bae-ba68-c8d00d56510f.png)" width="150" height="150" />" 
+<img src="https://user-images.githubusercontent.com/113630958/203797315-af3340e4-1610-4bae-ba68-c8d00d56510f.png" width="150" height="150" />
 
 
 > # Whatsapp: (41) 988031217
 
-<img src="https://user-images.githubusercontent.com/113630958/203797122-c581f5e0-9a86-431b-a4ee-2c81573f8cd1.png)" width="150" height="150" />
+<img src="https://user-images.githubusercontent.com/113630958/203797122-c581f5e0-9a86-431b-a4ee-2c81573f8cd1.png" width="150" height="150" />
 
 
 > # Site: www.mini-succulents.com.br
 
-<img src="https://user-images.githubusercontent.com/113630958/203796994-1cc12e4b-3114-415a-b017-a5505e351e91.png)" width="150" height="150" />
+<img src="https://user-images.githubusercontent.com/113630958/203796994-1cc12e4b-3114-415a-b017-a5505e351e91.png" width="150" height="150" />
 
 
 > # Instagram: mini_succulents
 
-<img src="https://user-images.githubusercontent.com/113630958/203796612-45806122-d82b-43d4-8c24-9f9701a3d01a.png)" width="150" height="150" />
+<img src="https://user-images.githubusercontent.com/113630958/203796612-45806122-d82b-43d4-8c24-9f9701a3d01a.png" width="150" height="150" />
+
+
+> # Pix
+
+
+<img src="https://user-images.githubusercontent.com/113630958/203799969-24739cac-9267-412b-a579-ad4e4e84d6a8.png" width="150" heigt="150" />
+
+
+> # Cartão
+
+g
+<img src="https://user-images.githubusercontent.com/113630958/203802162-a5a188c2-94b3-4dbb-bb33-4bb800049376.png" width="150" heigt="150" />
+
 
 
